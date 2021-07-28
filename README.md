@@ -22,7 +22,7 @@ Here are the summary results from the linear regression.
 
 ### Miles Per Gallon Linear Regression
 
-![mpg_linear_regression](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/mpg_linear_regression.png)
+![mpg_linear_regression](/visualizations/mpg_linear_regression.png)
 
 ## Summary Statistics on Suspension Coils
 
@@ -30,11 +30,11 @@ In this section, I loaded in the suspension coils dataset. It  was comprised of 
 
 ### Total Summary Table
 
-![total_sum_sus_coils](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/total_sum_sus_coils.png)
+![total_sum_sus_coils](/visualizations/total_sum_sus_coils.png)
 
 ### Lot Summary Table
 
-![lot_sum_sus_coils](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/lot_sum_sus_coils.png)
+![lot_sum_sus_coils](/visualizations/lot_sum_sus_coils.png)
 
 By completing this analysis I want to answer one question:
 
@@ -58,19 +58,19 @@ Here is a breakdown of each of the four tests:
 
 ### All Three Lots Combined Test
 
-![total_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/total_pop_test.png)
+![total_pop_test](/visualizations/total_pop_test.png)
 
 ### Lot 1 Test
 
-![1_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/1_pop_test.png)
+![1_pop_test](/visualizations/1_pop_test.png)
 
 ### Lot 2 Test
 
-![2_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/2_pop_test.png)
+![2_pop_test](/visualizations/2_pop_test.png)
 
 ### Lot 3 Test
 
-![3_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/3_pop_test.png)
+![3_pop_test](/visualizations/3_pop_test.png)
 
 ## Study Design: MechaCar vs Competition
 
